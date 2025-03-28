@@ -6,6 +6,7 @@ Hi there 👋 My Name is Natalia Szczepanik from Poland<br>PL<br>Jestem osobą, 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nixxias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />  
 
+<div align="left">
   
 ### 💻 Tech I use:
 
@@ -44,9 +45,11 @@ Hi there 👋 My Name is Natalia Szczepanik from Poland<br>PL<br>Jestem osobą, 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  /> 
 </div>
-
+  
+<div align="left">
+  
 ### 📞 Socials
 
 <div align="left">
