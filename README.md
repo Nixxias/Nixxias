@@ -4,7 +4,9 @@ Hi there 👋 My Name is Natalia Szczepanik from Poland<br>PL<br>Jestem osobą, 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nixxias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nixxias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />  
+
+  
 ### 💻 Tech I use:
 
 <div align="left">
